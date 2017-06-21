@@ -6,3 +6,275 @@ Processing by Rails::WelcomeController#index as HTML
 Completed 200 OK in 399ms (Views: 12.5ms)
 
 
+Started GET "/" for 35.190.174.209 at 2017-06-20 23:21:25 +0000
+Cannot render console from 35.190.174.209! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /usr/local/rvm/gems/ruby-2.3.0/gems/railties-5.1.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/railties-5.1.1/lib/rails/templates/rails/welcome/index.html.erb (4.6ms)
+Completed 200 OK in 216ms (Views: 8.6ms)
+
+
+Started GET "/" for 137.48.255.9 at 2017-06-20 23:21:29 +0000
+Cannot render console from 137.48.255.9! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /usr/local/rvm/gems/ruby-2.3.0/gems/railties-5.1.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/railties-5.1.1/lib/rails/templates/rails/welcome/index.html.erb (188.3ms)
+Completed 200 OK in 194ms (Views: 191.4ms)
+
+
+Started GET "/" for 137.48.255.12 at 2017-06-20 23:21:30 +0000
+Cannot render console from 137.48.255.12! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /usr/local/rvm/gems/ruby-2.3.0/gems/railties-5.1.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/railties-5.1.1/lib/rails/templates/rails/welcome/index.html.erb (3.5ms)
+Completed 200 OK in 7ms (Views: 5.2ms)
+
+
+Started GET "/" for 137.48.255.14 at 2017-06-20 23:21:36 +0000
+Cannot render console from 137.48.255.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /usr/local/rvm/gems/ruby-2.3.0/gems/railties-5.1.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/railties-5.1.1/lib/rails/templates/rails/welcome/index.html.erb (3.6ms)
+Completed 200 OK in 7ms (Views: 4.9ms)
+
+
+Started GET "/" for 137.48.255.9 at 2017-06-20 23:22:32 +0000
+Cannot render console from 137.48.255.9! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /usr/local/rvm/gems/ruby-2.3.0/gems/railties-5.1.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/railties-5.1.1/lib/rails/templates/rails/welcome/index.html.erb (3.4ms)
+Completed 200 OK in 8ms (Views: 6.4ms)
+
+
+Started GET "/" for 137.48.255.9 at 2017-06-20 23:22:34 +0000
+Cannot render console from 137.48.255.9! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /usr/local/rvm/gems/ruby-2.3.0/gems/railties-5.1.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/railties-5.1.1/lib/rails/templates/rails/welcome/index.html.erb (4.6ms)
+Completed 200 OK in 88ms (Views: 85.2ms)
+
+
+Started GET "/" for 137.48.255.9 at 2017-06-20 23:22:35 +0000
+Cannot render console from 137.48.255.9! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /usr/local/rvm/gems/ruby-2.3.0/gems/railties-5.1.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/railties-5.1.1/lib/rails/templates/rails/welcome/index.html.erb (3.0ms)
+Completed 200 OK in 6ms (Views: 4.3ms)
+
+
+Started GET "/" for 137.48.255.9 at 2017-06-20 23:30:45 +0000
+Cannot render console from 137.48.255.9! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /usr/local/rvm/gems/ruby-2.3.0/gems/railties-5.1.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/railties-5.1.1/lib/rails/templates/rails/welcome/index.html.erb (5.6ms)
+Completed 200 OK in 245ms (Views: 11.4ms)
+
+
+Started GET "/" for 137.48.255.9 at 2017-06-20 23:30:46 +0000
+Cannot render console from 137.48.255.9! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /usr/local/rvm/gems/ruby-2.3.0/gems/railties-5.1.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/railties-5.1.1/lib/rails/templates/rails/welcome/index.html.erb (3.2ms)
+Completed 200 OK in 7ms (Views: 4.4ms)
+
+
+Started GET "/" for 137.48.255.9 at 2017-06-20 23:30:49 +0000
+Cannot render console from 137.48.255.9! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /usr/local/rvm/gems/ruby-2.3.0/gems/railties-5.1.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/railties-5.1.1/lib/rails/templates/rails/welcome/index.html.erb (3.7ms)
+Completed 200 OK in 8ms (Views: 6.0ms)
+
+
+Started GET "/" for 137.48.255.9 at 2017-06-20 23:33:52 +0000
+Cannot render console from 137.48.255.9! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 772ms (Views: 770.7ms)
+
+
+Started GET "/" for 137.48.255.9 at 2017-06-20 23:35:17 +0000
+Cannot render console from 137.48.255.9! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 50ms (Views: 48.6ms)
+
+
+Started GET "/" for 137.48.255.9 at 2017-06-20 23:35:22 +0000
+Cannot render console from 137.48.255.9! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 38ms (Views: 35.6ms)
+
+
+Started GET "/" for 137.48.255.9 at 2017-06-20 23:35:26 +0000
+Cannot render console from 137.48.255.9! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 161ms (Views: 158.5ms)
+
+
+Started GET "/" for 137.48.255.9 at 2017-06-20 23:36:22 +0000
+Cannot render console from 137.48.255.9! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 32ms (Views: 30.5ms)
+
+
+Started GET "/" for 137.48.255.9 at 2017-06-20 23:36:32 +0000
+Cannot render console from 137.48.255.9! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (132.6ms)
+Completed 200 OK in 151ms (Views: 149.8ms)
+
+
+Started GET "/" for 137.48.255.9 at 2017-06-20 23:36:41 +0000
+Cannot render console from 137.48.255.9! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 25ms (Views: 22.8ms)
+
+
+Started GET "/" for 137.48.255.9 at 2017-06-20 23:36:44 +0000
+Cannot render console from 137.48.255.9! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 72ms (Views: 70.3ms)
+
+
+Started GET "/" for 137.48.255.9 at 2017-06-20 23:37:16 +0000
+Cannot render console from 137.48.255.9! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 25ms (Views: 23.3ms)
+
+
+Started GET "/" for 137.48.255.9 at 2017-06-20 23:37:26 +0000
+Cannot render console from 137.48.255.9! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 18ms (Views: 16.4ms)
+
+
+Started GET "/" for 137.48.255.9 at 2017-06-20 23:38:18 +0000
+Cannot render console from 137.48.255.9! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 16ms (Views: 14.8ms)
+
+
+Started GET "/" for 137.48.255.9 at 2017-06-20 23:39:15 +0000
+Cannot render console from 137.48.255.9! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 111ms (Views: 109.6ms)
+
+
+Started GET "/" for 137.48.255.9 at 2017-06-20 23:39:17 +0000
+Cannot render console from 137.48.255.9! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 205ms (Views: 203.2ms)
+
+
+Started GET "/" for 137.48.255.9 at 2017-06-20 23:39:57 +0000
+Cannot render console from 137.48.255.9! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 79ms (Views: 77.7ms)
+
+
+Started GET "/" for 137.48.255.9 at 2017-06-20 23:40:38 +0000
+Cannot render console from 137.48.255.9! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 20ms (Views: 18.6ms)
+
+
+Started GET "/" for 137.48.255.9 at 2017-06-20 23:45:28 +0000
+Cannot render console from 137.48.255.9! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 33ms (Views: 31.0ms)
+
+
+Started GET "/" for 137.48.255.14 at 2017-06-20 23:46:01 +0000
+Cannot render console from 137.48.255.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 27ms (Views: 25.8ms)
+
+
+Started GET "/" for 137.48.255.14 at 2017-06-20 23:46:59 +0000
+Cannot render console from 137.48.255.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 40ms (Views: 38.6ms)
+
+
+Started GET "/" for 137.48.255.14 at 2017-06-20 23:47:01 +0000
+Cannot render console from 137.48.255.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 83ms (Views: 80.6ms)
+
+
+Started GET "/" for 137.48.255.9 at 2017-06-20 23:49:11 +0000
+Cannot render console from 137.48.255.9! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 147ms (Views: 145.8ms)
+
+
+Started GET "/" for 137.48.255.9 at 2017-06-20 23:50:00 +0000
+Cannot render console from 137.48.255.9! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 16ms (Views: 14.9ms)
+
+
+Started GET "/" for 137.48.255.14 at 2017-06-20 23:50:12 +0000
+Cannot render console from 137.48.255.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 79ms (Views: 77.8ms)
+
+
+Started GET "/" for 137.48.255.9 at 2017-06-20 23:51:32 +0000
+Cannot render console from 137.48.255.9! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 53ms (Views: 51.7ms)
+
+
+Started GET "/" for 137.48.255.9 at 2017-06-20 23:51:39 +0000
+Cannot render console from 137.48.255.9! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 186ms (Views: 184.8ms)
+
+
