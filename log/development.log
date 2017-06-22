@@ -342,3 +342,27 @@ Processing by WelcomeController#index as HTML
 Completed 200 OK in 85ms (Views: 83.2ms)
 
 
+Started GET "/" for 5.152.209.23 at 2017-06-21 01:21:17 +0000
+Cannot render console from 5.152.209.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (5.3ms)
+Completed 200 OK in 165ms (Views: 161.3ms)
+
+
+Started HEAD "/" for 5.152.209.23 at 2017-06-21 01:21:38 +0000
+Cannot render console from 5.152.209.23! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 168ms (Views: 164.4ms)
+
+
+Started GET "/" for 98.172.138.22 at 2017-06-21 14:46:46 +0000
+Cannot render console from 98.172.138.22! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (3.6ms)
+Completed 200 OK in 182ms (Views: 169.1ms)
+
+
