@@ -14,7 +14,12 @@
  *= require_self
  */
 
-html {
+body {
     background: #ECEFF1;
-    
+}
+
+a  {
+        color: red;
+        font-family: courier;
+        font-size: 75%;
 }
