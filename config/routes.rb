@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  get 'create_account/create'
+
   get 'welcome/index'
 
   root 'welcome#index'
