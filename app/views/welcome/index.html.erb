@@ -1,23 +1,33 @@
-<center>
-    
-    <div>
-        <label for="username">Username</label><br>
-        <input type="text" id="username" />
+
+<div class="container">
+    <h1 class="center">Sign In</h1>
+    <div class="row">
+        <form class="col s12">
+            <div class="row">
+                <div class="input-field col s12">
+                    <input id="username" type="text" class="validate">
+                    <label for="username">Username</label>
+                </div>
+            </div>
+            <div class="row">
+                <div class="input-field col s12">
+                  <input id="password" type="password" class="validate">
+                  <label for="password">Password</label>
+                </div>
+                <a class="right blue-grey-text darken-2" href="#">Forgot Password?</a>
+            </div>
+            <div class="row">
+                <a class="waves-effect waves-light btn col s12">Sign In</a>
+            </div>
+        </form>
     </div>
     
-    <div>
-        <label for="password">Password</label><br>
-        <input type="password" id="password" />
+    <div class="row center">
+        <div class="col s12">
+            New to Night Out?
+        </div>
+        <div class="col s12">
+            <a class="waves-effect waves-light btn" href="/create_account/create">Create Account</a>
+        </div>
     </div>
-    
-    <a href="#">Forgot Password?</a>
-    
-    <br><br><button>Sign In</button>
-    
-    <div>
-        <br>
-        <p>New to Night Out?</p>
-        <a href="/create_account/create"><button>Create Account</button></a>
-    </div>
-    
-</center>
+</div>

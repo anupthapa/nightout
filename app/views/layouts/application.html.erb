@@ -9,10 +9,21 @@
   </head>
 
   <body>
-    <center>
+    <nav class="blue-grey">
+      <div class="nav-wrapper container">
+        <a href="#" class="brand-logo">Night Out</a>
+        <ul id="nav-mobile" class="right hide-on-med-and-down">
+          <li><a href="/">Sign In</a></li>
+          <li><a href="/create_account/create">Create Account</a></li>
+        </ul>
+    </div>
+    </nav>
+    <!--<center>
       <h1>Night Out</h1>
       <h4>An app by Hungover Software</h4>
-    </center>
-    <%= yield %>
+    </center>-->
+    <div class="container">
+      <%= yield %>
+    </div>
   </body>
 </html>
