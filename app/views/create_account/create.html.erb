@@ -1,32 +1,40 @@
-<center>
-    <h1>Create Account</h1>
-    
-    <form id="create_account_form">
-        <div>
-            <label for="email">Email</label><br>
-            <input type="email" id="email" />
-        </div>
-        
-        <div>
-            <label for="password">Password</label><br>
-            <input type="password" id="password" />
-        </div>
-        
-        <div>
-            <label for="password-confirm">Confirm Password</label><br>
-            <input type="password" id="password-confirm" />
-        </div>
-        
-        <div>
-            <label for="name">Preferred Name</label><br>
-            <input type="text" id="name" />
-        </div>
-        
-        <div>
-            <label for="phone">Phone Number</label><br>
-            <input type="text" id="phone" />
-        </div>
-        
-        <br><br><button>Create Account</button>
-    </form>
-</center>
+<div class="container">
+    <h1 class="center">Create Account</h1>
+    <div class="row">
+        <form class="col s12">
+            <div class="row">
+                <div class="input-field col s12">
+                    <input id="email" type="email" class="validate">
+                    <label for="email" data-error="Invalid Email">Email</label>
+                </div>
+            </div>
+            <div class="row">
+                <div class="input-field col s12">
+                  <input id="password" type="password" class="validate">
+                  <label for="password">Password</label>
+                </div>
+            </div>
+            <div class="row">
+                <div class="input-field col s12">
+                  <input id="password-confirm" type="password" class="validate">
+                  <label for="password-confirm">Confirm Password</label>
+                </div>
+            </div>
+            <div class="row">
+                <div class="input-field col s12">
+                  <input id="name" type="text" class="validate">
+                  <label for="name">Preferred Name</label>
+                </div>
+            </div>
+            <div class="row">
+                <div class="input-field col s12">
+                  <input id="phone" type="tel" class="validate">
+                  <label for="phone">Phone</label>
+                </div>
+            </div>
+            <div class="row">
+                <a class="waves-effect waves-light btn col s12">Create Account</a>
+            </div>
+        </form>
+    </div>
+</div>

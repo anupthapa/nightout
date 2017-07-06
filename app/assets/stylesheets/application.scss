@@ -14,12 +14,4 @@
  *= require_self
  */
 
-body {
-    background: #ECEFF1;
-}
-
-a  {
-        color: red;
-        font-family: courier;
-        font-size: 75%;
-}
+@import "materialize";
