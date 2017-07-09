@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  event: one
+  open: false
+  name: MyString
+
+two:
+  event: two
+  open: false
+  name: MyString
