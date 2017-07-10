@@ -1,5 +1,6 @@
 Rails.application.routes.draw do
-  get 'create_account/create'
+  get 'create_account/new'
+  post 'create_account/create'
 
   get 'welcome/index'
 
