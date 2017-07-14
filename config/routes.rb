@@ -1,4 +1,10 @@
 Rails.application.routes.draw do
+  get 'forgot_password/forgot_password'
+
+  get 'forgot/password'
+
+  get 'forgot/forgot_password'
+
   get 'create_account/new'
   post 'create_account/create'
 
